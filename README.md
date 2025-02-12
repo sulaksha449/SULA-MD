@@ -3,7 +3,6 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐒𝐔𝐋𝐀+𝐌𝐃+Multidevice+Whatsapp+Bot)](https://git.io/typing-svg)
 
- <br>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <br>
  
