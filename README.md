@@ -18,7 +18,7 @@
 
 <br>
 
-![forks](https://img.shields.io/github/forks/sulaksha449/SULA-MD?label=Forks&style=social)  ![stars](https://img.shields.io/github/stars/sulaksha449/SULA-MD?style=social)
+![forks](https://img.shields.io/github/forks/sulaksha449/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/sulaksha449/SULA-MD?style=social)
 
 <br>
 <br>
