@@ -16,6 +16,25 @@
 
 ![forks](https://img.shields.io/github/forks/sulaksha449/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/sulaksha449/SULA-MD?style=social)
 
+<p align="center">
+  <a href="https://github.com/sulaksha449/SULA-MD">
+    <img src="https://img.shields.io/github/repo-size/sulaksha449/SULA-MD?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="https://github.com/sulaksha449/SULA-MD">
+    <img src="https://img.shields.io/github/license/sulaksha449/SULA-MD?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/sulaksha449/SULA-MD">
+    <img src="https://img.shields.io/github/languages/top/sulaksha449/SULA-MD?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/sulaksha449/SULA-MD">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=red&style=plastic">
+
+  </a>
+  </p>
+
 <br>
 
 <hr>
