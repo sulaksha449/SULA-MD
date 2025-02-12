@@ -1,0 +1,23 @@
+{
+  "name": "𝐒𝐔𝐋𝐀-𝐌𝐃",
+  "description": "𝐒𝐔𝐋𝐀-𝐌𝐃 has been designed to make things easier and fun while using WhatsApp.",
+  "logo": "https://pomf2.lain.la/f/aqi35mmg.jpg",
+  "keywords": ["sulamd", "bot", "whatsapp bot", "multi device"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+            "description": "Type the Session-ID",
+            "required": true,
+            "value": "put session id here"
+        }
+    },
+         "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+  
+  
+}
