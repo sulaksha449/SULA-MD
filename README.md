@@ -6,3 +6,10 @@
 
 𝐒𝐮𝐥𝐚 𝐌𝐃 Multidevice Whatsapp Bot Mack By (Sulaksha Madara).
 
+
+
+![forks](https://img.shields.io/github/forks/sulaksha449/SULA-MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/sulaksha449/SULA-MD?style=social)
+
+
