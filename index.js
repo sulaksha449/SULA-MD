@@ -59,17 +59,17 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('😼 Installing... ')
+console.log('😈 Installing...')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('Plugins installed successful ✅')
-console.log('Bot connected to whatsapp ✅')
+console.log('𝐒𝐔𝐋𝐀-𝐌𝐃 Plugins installed successful ✅')
+console.log('𝐒𝐔𝐋𝐀-𝐌𝐃 Bot connected to whatsapp ✅')
 
-let up = `Wa-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `𝐒𝐔𝐋𝐀-𝐌𝐃 BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/vmjibk.jpg` }, caption: up })
 
