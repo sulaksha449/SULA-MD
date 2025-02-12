@@ -6,7 +6,7 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <br>
  
-<img src="https://files.catbox.moe/vmjibk.jpg" height="170" width="60%">
+<img src="https://files.catbox.moe/vmjibk.jpg" height="200" width="80%">
 
 <br>
 
