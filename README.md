@@ -23,6 +23,16 @@
 <br>
 <br>
 
+<hr>
+<b>CONTACT OWNER</b>
+
+[![𝐒𝐔𝐋𝐀-𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+<hr>
+
+<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
+
+<hr>
+
  </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANK+YOU;𝐒𝐔𝐋𝐀-𝐌𝐃" alt="Typing SVG" /></a>
