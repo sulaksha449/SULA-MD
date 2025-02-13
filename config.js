@@ -6,5 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
-ALIVE_IMG: process.env.ALIVE_IMG || "Alive Img Url"
+ALIVE_IMG: process.env.ALIVE_IMG || "Alive Img Url",
+ALIVE_MSG: process.env.ALIVE_Msg || "𝗛𝗜,𝐒𝐔𝐋𝐀-𝐌𝐃 𝙰𝚕𝚒𝚟𝚎 𝓝𝓞𝓦",
 };
