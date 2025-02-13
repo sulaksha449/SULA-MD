@@ -30,7 +30,7 @@
 
   </a>
   <a href="https://github.com/sulaksha449/SULA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=red&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=purple&style=plastic">
 
   </a>
   </p>
