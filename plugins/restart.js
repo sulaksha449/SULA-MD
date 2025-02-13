@@ -10,7 +10,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-    if(!isowner)return, 
+    if(!isowner)return
 const {exec} = require("child_process")
 reply("𝐒𝐔𝐋𝐀-𝐌𝐃 restarting...")
 await sleep(1500)
