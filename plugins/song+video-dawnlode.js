@@ -19,10 +19,13 @@ const url = data.url
 let desc = " 
  `𝐒𝐔𝐋𝐀-𝐌𝐃 SONG DOWNLOADER` 😈
 
-title: ${data.title}
-description: ${data.description}
-time: ${data.timestamp}
-ago: ${data.ago}
+Title: ${data.title}
+
+Description: ${data.description}
+
+Time: ${data.timestamp}
+
+Ago: ${data.ago}
 
 Made By 𝐒𝐔𝐋𝐀-𝐌𝐃
 "
