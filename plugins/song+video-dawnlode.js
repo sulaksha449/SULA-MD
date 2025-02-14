@@ -40,7 +40,7 @@ let downloadUrl = down.dl_url
 //send audio message
 
 await conn.sendMessege(from.{audio:{url: downloadUrl},mimetype:"audio/mpeg"},{quoted:mek}):
-await conn.sendMessege(from.{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption: "Made By 𝐒𝐔𝐋𝐀-𝐌𝐃},{quoted:mek}):
+await conn.sendMessege(from.{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"Made By 𝐒𝐔𝐋𝐀-𝐌𝐃},{quoted:mek}):
 
 }catch(e){
 console.log(e)
@@ -88,7 +88,7 @@ let downloadUrl = down.dl_url
 //send video message
 
 await conn.sendMessege(from.{video:{url: downloadUrl},mimetype:"video/mp4"},{quoted:mek}):
-await conn.sendMessege(from.{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption: "Made By 𝐒𝐔𝐋𝐀-𝐌𝐃},{quoted:mek}):
+await conn.sendMessege(from.{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"Made By 𝐒𝐔𝐋𝐀-𝐌𝐃},{quoted:mek}):
 
 
 }catch(e){
