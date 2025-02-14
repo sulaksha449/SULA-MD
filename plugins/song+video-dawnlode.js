@@ -1,5 +1,5 @@
 const {cmd , commands} = require('../command')
-
+const fg = require("api-dylux")
 cmd({
     pattern: "song",
     desc: "Download Song",
