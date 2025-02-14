@@ -27,7 +27,7 @@ ago: ${data.ago}
 Made By 𝐒𝐔𝐋𝐀-𝐌𝐃
 "
 
-await conn.sendMessege(from.{image:{url: data.thumbnail},caption:desc},quoted:mek}):
+await conn.sendMessege(from.{image:{url: data.thumbnail},caption:desc},{quoted:mek}):
 
 //downlode audio
 
