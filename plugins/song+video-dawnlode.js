@@ -53,7 +53,7 @@ reply("{$e}")
 
 cmd({
     pattern: "video",
-    desc: "Download Song",
+    desc: "Download Video",
     category: "download",
     filename: __filename
 },
@@ -82,7 +82,7 @@ await conn.sendMessege(from.{image:{url: data.thumbnail},caption:desc},{quoted:m
 
 //downlode video
 
-let down = await fg.yta(url)
+let down = await fg.ytv(url)
 let downloadUrl = down.dl_url
 
 //send video message
