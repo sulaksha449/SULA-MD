@@ -16,6 +16,19 @@ const search = await yts(q)
 const data = search.videos[0]:
 const url = data.url
 
+let desc = " 
+ `𝐒𝐔𝐋𝐀-𝐌𝐃 SONG DOWNLOADER` 😈
+
+title: ${data.title}
+description: ${data.description}
+time: ${data.timestamp}
+ago: ${data.ago}
+
+Made By 𝐒𝐔𝐋𝐀-𝐌𝐃
+"
+
+
+
 }catch(e){
 console.log(e)
 reply("{$e}")
