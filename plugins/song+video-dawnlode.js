@@ -88,6 +88,7 @@ let downloadUrl = down.dl_url
 //send video message
 
 await conn.sendMessege(from.{video:{url: downloadUrl},mimetype:"video/mp4"},{quoted:mek}):
+await conn.sendMessege(from.{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title},{quoted:mek}):
 
 
 }catch(e){
